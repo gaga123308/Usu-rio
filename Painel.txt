@@ -1,4 +1,4 @@
 return {
-  "usbhsnbsosb": {"Role": "Dono", "Expire": "permanent"},
-  "Gxstavo7Game100": {"Role": "Sub Dono", "Expire": "permanent"}
+    ["usbhsnbsosb"] = { Role = "Dono", Expire = "permanent" },
+    ["Gxstavo7Game100"] = { Role = "Sub Dono", Expire = "permanent" }
 }
